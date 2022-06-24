@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="add">Add</string>
+    <string name="about">About</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_excerpt">Note Excerpt:</string>
+    <string name="date_time">Date Time</string>
+    <string name="title">Title...</string>
+    <string name="type_your_note">Type your note...</string>
+    <string name="type_your_note_here">Type your note here...</string>
+    <string name="savenote_item">saveNote_item</string>
+    <string name="saved">Note Saved!</string>
+    <string name="android_notes">Android Notes</string>
+    <string name="u00a9_copyright_vi_linh_nguyen">© Copyright,Vi-Linh Nguyen</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="no_data"></string>
+    <string name="no_file">No such JSON file present</string>
+    <string name="file_name">Notes.json</string>
+</resources>

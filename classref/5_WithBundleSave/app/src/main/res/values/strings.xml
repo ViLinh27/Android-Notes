@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WithBundleSave</string>
+    <string name="copyButton">Copy</string>
+    <string name="enter_a_number"><![CDATA[<Enter a Number>]]></string>
+</resources>
